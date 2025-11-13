@@ -1,0 +1,117 @@
+
+:root{
+  /* 🎨 Colors */
+
+  /* sunflower */
+
+  --clr-black : #000000;
+  --clr-oxford-blue : #14213D;
+  --clr-orange : #FCA311;
+  --clr-platinum : #E5E5E5;
+  --clr-white : #FFFFFF;
+  
+  --clr-blue : #010758;
+  --clr-purple : #490d61;
+
+
+  /* 🔠 Font Sizes */
+
+  --size-xxs: 0.5rem;   /* 8px */
+  --size-xs: 0.75rem;   /* 12px */
+  --size-sm: 0.875rem;  /* 14px */
+  --size-base: 1rem;    /* 16px */
+  --size-lg: 1.125rem;  /* 18px */
+  --size-xl: 1.25rem;   /* 20px */
+  --size-2xl: 1.5rem;   /* 24px */
+  --size-3xl: 1.875rem; /* 30px */
+  --size-4xl: 2.25rem;  /* 36px */
+  --size-5xl: 3rem;     /* 48px */
+  --size-6xl: 3.75rem;  /* 60px */
+  --size-7xl: 4.5rem;   /* 72px */
+  --size-8xl: 6rem;     /* 96px */
+  --size-9xl: 8rem;     /* 128px */
+  --size-10xl: 10rem;   /* 160px */
+
+  /* 📏 Spacing (Margin + Padding + Gap) */
+
+  --space-0: 0;
+  --space-1: 0.25rem;   /* 4px */
+  --space-2: 0.5rem;    /* 8px */
+  --space-3: 0.75rem;   /* 12px */
+  --space-4: 1rem;      /* 16px */
+  --space-5: 1.25rem;   /* 20px */
+  --space-6: 1.5rem;    /* 24px */
+  --space-8: 2rem;      /* 32px */
+  --space-10: 2.5rem;   /* 40px */
+  --space-12: 3rem;     /* 48px */
+  --space-16: 4rem;     /* 64px */
+  --space-20: 5rem;     /* 80px */
+  --space-24: 6rem;     /* 96px */
+  --space-32: 8rem;     /* 128px */
+
+  /* 🖼️ Border Radius */
+
+  --radius-sm: 0.125rem;  /* 2px */
+  --radius-md: 0.375rem;  /* 6px */
+  --radius-lg: 0.5rem;    /* 8px */
+  --radius-xl: 0.75rem;   /* 12px */
+  --radius-2xl: 1rem;     /* 16px */
+  --radius-full: 9999px;  /* Circle */
+
+  /* ✨ Shadows */
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.15);
+  --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.2);
+
+  /* ⏱️ Transitions */
+
+  --transition-fast: 150ms ease-in-out;
+  --transition-base: 300ms ease-in-out;
+  --transition-slow: 500ms ease-in-out;
+
+  /* 📏 Container Widths */
+
+  --container-xxxsm: 250px;   
+  --container-xxsm: 375px;   
+  --container-xsm: 480px;   
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1280px;
+  --container-2xl: 1536px;
+
+    /* 📐 Container Heights */
+    
+  --container-h-xxsm: 250px;   
+  --container-h-xsm: 375px;   
+  --container-h-sm: 480px;   
+  --container-h-md: 640px;   
+  --container-h-lg: 768px;   
+  --container-h-xl: 960px;   
+  --container-h-2xl: 1080px;
+
+}
+
+/* xs */
+/*@media (min-width: 475px) {}*/
+
+/* sm */
+/* @media (min-width: 640px) {} */
+
+/* md */
+/* @media (min-width: 768px) {} */
+
+/* lg */
+/* @media (min-width: 1024px) {} */
+
+/* xl */
+/* @media (min-width: 1280px) {} */
+
+/* 2xl */
+/* @media (min-width: 1536px) {} */
+
+
+
+
