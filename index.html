@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Text to Voice</title>
 
+  <link rel="stylesheet" href="./values.css" type="Text/css">
   <link rel="stylesheet" href="./general.css" type="Text/css">
-  <link rel="stylesheet" href="./global.css" type="Text/css">
   <link rel="stylesheet" href="./style.css" type="Text/css">
 </head> 
 <body>
@@ -20,9 +20,17 @@
   <main class="main-cont">
 
     <textarea class="text-area" placeholder="Write something here...."></textarea>
+
     <section class="main-foot-cont">
-      <select class="lang-cont"></select>
-      <button class="toggle-btn">Listen</button>
+      
+      <select class="lang-cont">
+        <option>Select l anguage</option>
+      </select>
+
+      <button class="toggle-btn">
+        <img class ="play-img" src="play.png">
+        Listen
+      </button>
     </section>
 
   </main>

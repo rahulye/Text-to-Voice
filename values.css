@@ -1,0 +1,61 @@
+:root {
+  /* --------Colors------- */
+
+  /* sunflower pallet*/
+
+  --clr-black : #000000;
+  --clr-oxford-blue : #14213D;
+  --clr-orange : #FCA311;
+  --clr-platinum : #E5E5E5;
+  --clr-white : #FFFFFF;
+  
+  /* bright blue shade pallet*/
+  --clr-blue : #010758;
+  --clr-purple : #490d61;
+  --clr-bright-pink : #FF3E67;
+  --cle-very-light-grey : rgba(211, 211, 211, 0.16);
+
+
+ 
+  /* -------Font Sizes------- */
+
+  --size-xxs: 0.5rem;   /* 8px */
+  --size-xs: 0.75rem;   /* 12px */
+  --size-sm: 0.875rem;  /* 14px */
+  --size-base: 1rem;    /* 16px */
+  --size-lg: 1.125rem;  /* 18px */
+  --size-xl: 1.25rem;   /* 20px */
+  --size-2xl: 1.5rem;   /* 24px */
+  --size-3xl: 1.875rem; /* 30px */
+  --size-4xl: 2.25rem;  /* 36px */
+  --size-5xl: 3rem;     /* 48px */
+  --size-6xl: 3.75rem;  /* 60px */
+  --size-7xl: 4.5rem;   /* 72px */
+  --size-8xl: 6rem;     /* 96px */
+  --size-9xl: 8rem;     /* 128px */
+  --size-10xl: 10rem;   /* 160px */
+
+
+  /* 📏 Container Widths */
+  --container-xxxsm: 250px;   /* 15.625rem */
+  --container-xxsm: 375px;    /* 23.4375rem */
+  --container-xsm: 480px;     /* 30rem */
+  --container-sm: 640px;      /* 40rem */
+  --container-md: 768px;      /* 48rem */
+  --container-lg: 1024px;     /* 64rem */
+  --container-xl: 1280px;     /* 80rem */
+  --container-2xl: 1536px;    /* 96rem */
+
+  /* 📐 Container Heights */
+  --container-h-xxsm: 250px;  /* 15.625rem */
+  --container-h-xsm: 375px;   /* 23.4375rem */
+  --container-h-sm: 480px;    /* 30rem */
+  --container-h-md: 640px;    /* 40rem */
+  --container-h-lg: 768px;    /* 48rem */
+  --container-h-xl: 960px;    /* 60rem */
+  --container-h-2xl: 1080px;  /* 67.5rem */
+
+
+}
+
+

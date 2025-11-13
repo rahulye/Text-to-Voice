@@ -1,12 +1,50 @@
 @media (min-width : 0px) {
 
   .header-cont {
+    color: var(--clr-white);
+  }
 
+  .head-txt-underline {
+    color: var(--clr-bright-pink);
   }
 
   .text-area {
-
+    border-radius: 0.25rem;
+    color: white;
   }
+
+
+
+  .main-foot-cont {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+
+  .lang-cont {
+    flex: 2;
+    padding: 0.25rem;
+    border-radius: 1rem;
+  }
+
+  .toggle-btn {
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: var(--clr-bright-pink);
+    color: var(--clr-white);
+    display: flex;
+    gap: 0.5rem;
+    font-size: 1rem;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .play-img {
+    width: 1.5rem;
+  }
+
+
 }
 
 /* xs */
