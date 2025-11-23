@@ -10,15 +10,17 @@ let voiceSelected = document.querySelector('.js-select');
 async function initSpeech() {  
   
   // 1.get the voices after await(bring promise) 
-  let voices = await loadSpeech();  
+  voices = await loadSpeech();  
   // 2.set the default voice
   speech.voice = voices[0];
-  // 3.show the voices in the page 
+  // 3.show the voices in the page (load)
   voices.forEach( ( voice , i) => {
     voiceSelected.options[i] = new Option( voice.name , i);
-    voices[i] = voiceSelected.options[i];
   });
-  console.log(voices);
+  // 4.chnage the voice according to the voice change selected
+  voiceSelected.addEventListener( 'change' , () => {  // chnage--> when user selected a option, run this function 
+    speech.voice = voices[voiceSelected.value];
+  });
   console.log('2');
 };
 
