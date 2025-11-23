@@ -16,5 +16,5 @@ https://text-to-voice-site.vercel.app/
   https://github.com/user-attachments/assets/b1cf2c4c-6ea2-4ce3-9b94-65a7a6528d65
 - Familiarize with asynnchronous methods handling browser speech synthesis.
 
-## Features & Screenshots
+## Screenshot
 <img width="1869" height="1011" alt="image" src="https://github.com/user-attachments/assets/91f366c8-fdd3-4d39-bb58-b634a72676f4" />
