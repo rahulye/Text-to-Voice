@@ -1,18 +1,22 @@
 # Text-to-Voice-Converter
-
-A simple and clean web application that converts text to QR code.  
-Built using **HTML**, **CSS**, and **JavaScript**.
+- Convert text to voice
+- Built using **HTML**, **CSS**, **JavaScript**, **React**.
 
 ## Preview
-[Live deomo](https://qrcode-generator-application.vercel.app/)
+[Live deomo](https://text-to-voice-site.vercel.app/)
 
 ## Screen recorded video
-https://github.com/user-attachments/assets/a503177b-0ac1-4560-a7f8-f8b6d937cdc2
+
+
+https://github.com/user-attachments/assets/9a2eda85-e171-4b42-957f-29fc2ed5b581
+
+
 
 ## Why
-- Familiarize with asynnchronous.
+- Familiarize myself with building complete applications using React.js with responsive design.
 
 ## Screenshot
-<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/b3864339-ebe5-492c-8a74-04f1299d28c4" />
-<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/ba9c182f-5961-49ea-b28f-4374ffb90638" />
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/0ab337b7-a096-41aa-aa83-d78e8326be8d" />
+
+<img width="1358" height="1020" alt="image" src="https://github.com/user-attachments/assets/d6b0a32b-f6fb-4d23-aa9d-0997f8a8bf76" />
 
