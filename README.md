@@ -1,6 +1,6 @@
 # Text-to-Voice-Converter
 - Convert text to voice
-- Built using **HTML**, **CSS**, **JavaScript**, **React**.
+- Built using **React**, **TypeScript**, **Tailwind CSS** with responsive design
 
 ## Preview
 [Live deomo](https://text-to-voice-site.vercel.app/)
